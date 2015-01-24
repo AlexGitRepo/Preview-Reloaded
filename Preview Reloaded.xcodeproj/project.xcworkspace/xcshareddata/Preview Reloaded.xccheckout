@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6E71AB8A-9905-44DC-B57F-9E1D519A7C4E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Preview Reloaded</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AAFF73DCC598AA8854B8A5C49B4A2CDB3707D06A</key>
+		<string>https://github.com/AlexGitRepo/Preview-Reloaded.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Preview Reloaded.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AAFF73DCC598AA8854B8A5C49B4A2CDB3707D06A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/AlexGitRepo/Preview-Reloaded.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AAFF73DCC598AA8854B8A5C49B4A2CDB3707D06A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AAFF73DCC598AA8854B8A5C49B4A2CDB3707D06A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Preview%20Reloaded</string>
+		</dict>
+	</array>
+</dict>
+</plist>
